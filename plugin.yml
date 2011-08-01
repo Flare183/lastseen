@@ -1,0 +1,8 @@
+name: LastSeen
+main: net.eonz.bukkitplugin.lastseen.LastSeen
+version: 1.1
+
+commands:
+    lastseen:
+        description: Displays the time at which the specified user last logged off from the server. 
+        usage: /<command> <username>
