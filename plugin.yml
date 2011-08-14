@@ -1,6 +1,6 @@
 name: LastSeen
-main: net.eonz.bukkitplugin.lastseen.LastSeen
-version: 1.1
+main: bin.flare183.lastseen.LastSeen
+version: 1.5
 
 commands:
     lastseen:

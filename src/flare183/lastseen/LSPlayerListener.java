@@ -76,16 +76,16 @@ public class LSPlayerListener extends PlayerListener implements CommandExecutor 
 
 					if (days >= 1) {
 
-						cs.sendMessage(playerName + " was last seen " + days
+						cs.sendMessage(playerName + " was last seen on dreamcraft " + days
 								+ " days and " + hours + " hours ago.");
 
 					} else if (hours >= 1) {
 
-						cs.sendMessage(playerName + " was last seen " + hours
+						cs.sendMessage(playerName + " was last seen on dreamcraft" + hours
 								+ " hours and " + minutes + " minutes ago.");
 
 					} else {
-						cs.sendMessage(playerName + " was last seen " + minutes
+						cs.sendMessage(playerName + " was last seen on dreamcraft " + minutes
 								+ " minutes ago.");
 					}
 
