@@ -1,5 +1,5 @@
 name: LastSeen
-main: bin.flare183.lastseen.LastSeen
+main: net.flare183.lastseen.LastSeen
 version: 1.5
 
 commands:
